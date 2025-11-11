@@ -38,10 +38,10 @@ CREATE TABLE Pengguna (
   Nama_Pengguna VARCHAR(225),
   Email_Pengguna VARCHAR(225)
 );
-
+```
 ---
 
-👉 Full implementation available in:  
-📁 [**Syntax_13323009.sql**](./Syntax_13323009.sql)
+📁 [**Syntax_13323009.sql**](https://github.com/winagea/mysql-Database-Project/blob/main/Syntax_13323009.sql)
+
 
 ---
