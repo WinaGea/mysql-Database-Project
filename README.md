@@ -41,7 +41,7 @@ CREATE TABLE Pengguna (
 ```
 ---
 
-📁 [**Syntax_13323009.sql**](https://github.com/winagea/mysql-Database-Project/blob/main/Syntax_13323009.sql)
+📁 📁 [**Syntax_13323009.sql**](https://github.com/winagea/mysql-database-project/blob/main/Syntax_13323009.sql)
 
 
 ---
