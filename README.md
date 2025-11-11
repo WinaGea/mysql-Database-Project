@@ -42,5 +42,6 @@ CREATE TABLE Pengguna (
 ---
 
 👉 Full implementation available in:  
-📁 [**Syntax_13323009.sql**](./sql/Syntax_13323009.sql)
+📁 [**Syntax_13323009.sql**](./Syntax_13323009.sql)
 
+---
